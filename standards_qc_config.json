@@ -1,0 +1,10 @@
+{
+  "expected_rfu": {
+                   "Std1": 8000,
+                   "Std2": 3000,
+                   "Std3": 2500
+                  },
+  
+  "tolerance_percent": 10.0
+}
+  
